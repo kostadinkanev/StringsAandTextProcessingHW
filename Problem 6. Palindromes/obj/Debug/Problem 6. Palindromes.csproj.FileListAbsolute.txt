@@ -1,0 +1,6 @@
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 6. Palindromes\bin\Debug\Problem_6.Palindromes.exe.config
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 6. Palindromes\bin\Debug\Problem_6.Palindromes.exe
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 6. Palindromes\bin\Debug\Problem_6.Palindromes.pdb
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 6. Palindromes\obj\Debug\Problem 6. Palindromes.csprojResolveAssemblyReference.cache
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 6. Palindromes\obj\Debug\Problem_6.Palindromes.exe
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 6. Palindromes\obj\Debug\Problem_6.Palindromes.pdb

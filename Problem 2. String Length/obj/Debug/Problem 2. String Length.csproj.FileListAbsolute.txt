@@ -1,0 +1,5 @@
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 2. String Length\bin\Debug\Problem_2.String_Length.exe.config
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 2. String Length\bin\Debug\Problem_2.String_Length.exe
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 2. String Length\bin\Debug\Problem_2.String_Length.pdb
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 2. String Length\obj\Debug\Problem_2.String_Length.exe
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 2. String Length\obj\Debug\Problem_2.String_Length.pdb

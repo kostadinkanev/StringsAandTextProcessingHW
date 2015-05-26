@@ -1,0 +1,5 @@
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 3. Count Substring Occurrences\bin\Debug\Problem_3.Count_Substring_Occurrences.exe.config
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 3. Count Substring Occurrences\bin\Debug\Problem_3.Count_Substring_Occurrences.exe
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 3. Count Substring Occurrences\bin\Debug\Problem_3.Count_Substring_Occurrences.pdb
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 3. Count Substring Occurrences\obj\Debug\Problem_3.Count_Substring_Occurrences.exe
+E:\C#\Advanced C# may 2015\StringsAandTextProcessing\Problem 3. Count Substring Occurrences\obj\Debug\Problem_3.Count_Substring_Occurrences.pdb
